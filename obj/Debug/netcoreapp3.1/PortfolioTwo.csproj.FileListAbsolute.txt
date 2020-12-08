@@ -17,3 +17,16 @@
 /Users/creative/Documents/Development/coding_dojo/c_sharp_stack/PortfolioTwo/obj/Debug/netcoreapp3.1/PortfolioTwo.dll
 /Users/creative/Documents/Development/coding_dojo/c_sharp_stack/PortfolioTwo/obj/Debug/netcoreapp3.1/PortfolioTwo.pdb
 /Users/creative/Documents/Development/coding_dojo/c_sharp_stack/PortfolioTwo/obj/Debug/netcoreapp3.1/PortfolioTwo.genruntimeconfig.cache
+/Users/creative/Documents/Development/coding_dojo/c_sharp_stack/PortfolioTwo/bin/Debug/netcoreapp3.1/PortfolioTwo.Views.dll
+/Users/creative/Documents/Development/coding_dojo/c_sharp_stack/PortfolioTwo/bin/Debug/netcoreapp3.1/PortfolioTwo.Views.pdb
+/Users/creative/Documents/Development/coding_dojo/c_sharp_stack/PortfolioTwo/obj/Debug/netcoreapp3.1/PortfolioTwo.RazorAssemblyInfo.cache
+/Users/creative/Documents/Development/coding_dojo/c_sharp_stack/PortfolioTwo/obj/Debug/netcoreapp3.1/PortfolioTwo.RazorAssemblyInfo.cs
+/Users/creative/Documents/Development/coding_dojo/c_sharp_stack/PortfolioTwo/obj/Debug/netcoreapp3.1/PortfolioTwo.TagHelpers.input.cache
+/Users/creative/Documents/Development/coding_dojo/c_sharp_stack/PortfolioTwo/obj/Debug/netcoreapp3.1/PortfolioTwo.TagHelpers.output.cache
+/Users/creative/Documents/Development/coding_dojo/c_sharp_stack/PortfolioTwo/obj/Debug/netcoreapp3.1/PortfolioTwo.RazorCoreGenerate.cache
+/Users/creative/Documents/Development/coding_dojo/c_sharp_stack/PortfolioTwo/obj/Debug/netcoreapp3.1/PortfolioTwo.RazorTargetAssemblyInfo.cs
+/Users/creative/Documents/Development/coding_dojo/c_sharp_stack/PortfolioTwo/obj/Debug/netcoreapp3.1/PortfolioTwo.Views.pdb
+/Users/creative/Documents/Development/coding_dojo/c_sharp_stack/PortfolioTwo/obj/Debug/netcoreapp3.1/PortfolioTwo.csproj.CopyComplete
+/Users/creative/Documents/Development/coding_dojo/c_sharp_stack/PortfolioTwo/obj/Debug/netcoreapp3.1/Razor/Views/Home/Contact.cshtml.g.cs
+/Users/creative/Documents/Development/coding_dojo/c_sharp_stack/PortfolioTwo/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/creative/Documents/Development/coding_dojo/c_sharp_stack/PortfolioTwo/obj/Debug/netcoreapp3.1/Razor/Views/Home/Projects.cshtml.g.cs

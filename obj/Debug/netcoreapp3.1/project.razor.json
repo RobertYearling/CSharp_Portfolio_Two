@@ -14390,6 +14390,22 @@
     "CSharpLanguageVersion": 800
   },
   "RootNamespace": "PortfolioTwo",
-  "Documents": [],
+  "Documents": [
+    {
+      "FilePath": "/Users/creative/Documents/Development/coding_dojo/c_sharp_stack/PortfolioTwo/Views/Hello/Index.cshtml",
+      "TargetPath": "Views\\Hello\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/creative/Documents/Development/coding_dojo/c_sharp_stack/PortfolioTwo/Views/Hello/Contact.cshtml",
+      "TargetPath": "Views\\Hello\\Contact.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/creative/Documents/Development/coding_dojo/c_sharp_stack/PortfolioTwo/Views/Hello/Projects.cshtml",
+      "TargetPath": "Views\\Hello\\Projects.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
   "SerializationFormat": "0.2"
 }
